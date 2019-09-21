@@ -4,5 +4,7 @@
 # Time Complexity:  ?
 # Space Complexity: ?
 def heap_sort(list)
-  raise NotImplementedError, "Method not implemented yet..."
+  return list if list.length < 2
+
+  
 end
